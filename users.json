@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Claresta",
+        "last_name": "Troutbeck",
+        "email": "ctroutbeck0@photobucket.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Lexine",
+        "last_name": "Harkins",
+        "email": "lharkins1@webs.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Alika",
+        "last_name": "Brumfield",
+        "email": "abrumfield2@aol.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Lynnette",
+        "last_name": "Snarie",
+        "email": "lsnarie3@alexa.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Grace",
+        "last_name": "Noweak",
+        "email": "gnoweak4@wikispaces.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Alexander",
+        "last_name": "Semeniuk",
+        "email": "asemeniuk5@thetimes.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Jareb",
+        "last_name": "Ninotti",
+        "email": "jninotti6@prweb.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Babbie",
+        "last_name": "Thurston",
+        "email": "bthurston7@google.com.au",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Saxe",
+        "last_name": "Yashanov",
+        "email": "syashanov8@newsvine.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Stillmann",
+        "last_name": "Buddock",
+        "email": "sbuddock9@flickr.com",
+        "gender": "Male"
+    }
+]
